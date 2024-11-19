@@ -2,8 +2,8 @@
 // @name         SnapFocus
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/amukerd/SnapFocus/raw/refs/heads/main/script.user.js
+// @downloadURL  https://github.com/amukerd/SnapFocus/raw/refs/heads/main/script.user.js
 // @description  Stop the ui cover from showing up when the tab is unfocused, by stopping the tab from knowing it's unfocused
 // @author       Amukerd
 // @match        https://web.snapchat.com/*

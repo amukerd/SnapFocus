@@ -1,7 +1,6 @@
 # SnapFocus
 
 **[Install](https://github.com/amukerd/SnapFocus/raw/refs/heads/main/script.user.js)**
-<span style="font-size: 40px;">This is larger text.</span>
 
 ## Very simple script to just stop the div pictured below from being created when the tab/browser is unfocused
 

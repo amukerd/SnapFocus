@@ -1,4 +1,4 @@
-# SnapFocus - [Install - You Need Tampermonkey!](https://github.com/amukerd/SnapFocus/raw/refs/heads/main/script.user.js)
+# SnapFocus - [Install](https://github.com/amukerd/SnapFocus/raw/refs/heads/main/script.user.js) - You Need Tampermonkey!
 
 ## Very simple script to stop the div pictured below from being created when the tab/browser is unfocused
 Unfortunately you can't just delete it once as it is recreated as soon as the div is deleted
